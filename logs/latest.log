@@ -1,19 +1,83 @@
-[21:29:35] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-java.nio.file.NoSuchFileException: server.properties
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:108)
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:113)
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newFileChannel(UnixFileSystemProvider.java:214)
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:245)
-	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
-	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
-	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
-	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
-	at net.minecraft.server.dedicated.Settings.loadFromFile(Settings.java:62)
-	at net.minecraft.server.dedicated.DedicatedServerProperties.fromFile(DedicatedServerProperties.java:154)
-	at net.minecraft.server.dedicated.DedicatedServerSettings.<init>(DedicatedServerSettings.java:12)
-	at net.minecraft.server.Main.main(Main.java:114)
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
-	at java.base/java.lang.Thread.run(Thread.java:1516)
-[21:29:35] [ServerMain/WARN]: Failed to load eula.txt
-[21:29:35] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[14:10:27] [Server thread/INFO]: ShivamHere[/100.114.182.95:58313] logged in with entity id 4093 at (-334.5, 67.0, -98.5)
+[14:10:27] [Server thread/INFO]: ShivamHere joined the game
+[14:13:24] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[14:13:24] [Server thread/INFO]: ShivamHere left the game
+[14:13:50] [Server thread/INFO]: ShivamHere[/100.114.182.95:59543] logged in with entity id 5020 at (-344.51209711200283, 63.0, -88.50809533701691)
+[14:13:50] [Server thread/INFO]: ShivamHere joined the game
+[14:14:35] [Server thread/INFO]: ShivamHere lost connection: Timed out
+[14:14:35] [Server thread/INFO]: ShivamHere left the game
+[14:14:35] [Server thread/WARN]: handleDisconnection() called twice
+[14:15:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:22:07] [Server thread/INFO]: ShivamHere[/100.114.182.95:49555] logged in with entity id 5554 at (-344.51209711200283, 63.0, -88.50809533701691)
+[14:22:07] [Server thread/INFO]: ShivamHere joined the game
+[14:23:16] [Server thread/INFO]: ShivamHere was slain by Zombie
+[14:26:20] [Server thread/INFO]: ShivamHere has made the advancement [Monster Hunter]
+[14:26:36] [Server thread/INFO]: ShivamHere has made the advancement [Stone Age]
+[14:28:08] [Server thread/INFO]: ShivamHere has made the advancement [Getting an Upgrade]
+[14:28:24] [Server thread/INFO]: ShivamHere has made the advancement [Sweet Dreams]
+[14:33:08] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[14:33:08] [Server thread/INFO]: ShivamHere left the game
+[14:34:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:34:37] [Server thread/INFO]: ShivamHere[/100.114.182.95:49667] logged in with entity id 9767 at (-517.6201360099562, 71.0, 15.47991395977321)
+[14:34:37] [Server thread/INFO]: ShivamHere joined the game
+[14:45:50] [Server thread/INFO]: ShivamHere has made the advancement [Acquire Hardware]
+[14:51:33] [Server thread/INFO]: ShivamHere has made the advancement [Isn't It Iron Pick]
+[14:55:25] [Server thread/INFO]: ahqaf[/127.0.0.1:65397] logged in with entity id 15536 at (-766.8537921613939, 63.0, -182.8433337632806)
+[14:55:25] [Server thread/INFO]: ahqaf joined the game
+[15:00:07] [Server thread/INFO]: ahqaf has made the advancement [Stone Age]
+[15:00:50] [Server thread/INFO]: ahqaf has made the advancement [Monster Hunter]
+[15:02:42] [Server thread/INFO]: ahqaf has made the advancement [Acquire Hardware]
+[15:04:38] [Server thread/INFO]: ahqaf has made the advancement [Getting an Upgrade]
+[15:16:32] [Server thread/INFO]: ahqaf has made the advancement [Suit Up]
+[15:19:49] [Server thread/INFO]: ShivamHere was slain by Drowned
+[15:29:07] [Server thread/INFO]: ahqaf has made the advancement [Not Today, Thank You]
+[15:29:58] [Server thread/INFO]: ShivamHere has made the advancement [Not Today, Thank You]
+[15:32:06] [Server thread/INFO]: [Not Secure] <ahqaf> SOO JAA O
+[15:36:51] [Server thread/INFO]: ShivamHere was shot by Skeleton
+[15:47:59] [Server thread/INFO]: ShivamHere has made the advancement [Suit Up]
+[15:49:54] [Server thread/INFO]: ahqaf has made the advancement [Isn't It Iron Pick]
+[16:00:52] [Server thread/INFO]: ahqaf lost connection: Disconnected
+[16:00:52] [Server thread/INFO]: ahqaf left the game
+[16:02:53] [Server thread/INFO]: ahqaf[/127.0.0.1:49637] logged in with entity id 29048 at (-565.4463952957391, 26.0, 153.12296047504293)
+[16:02:53] [Server thread/INFO]: ahqaf joined the game
+[16:04:56] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[16:04:56] [Server thread/INFO]: ShivamHere left the game
+[16:05:00] [Server thread/INFO]: ShivamHere[/100.114.182.95:55725] logged in with entity id 29774 at (-640.614073207191, 13.0, 101.69463154493916)
+[16:05:00] [Server thread/INFO]: ShivamHere joined the game
+[16:05:36] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[16:05:36] [Server thread/INFO]: ShivamHere left the game
+[16:05:52] [Server thread/INFO]: ShivamHere[/100.114.182.95:55785] logged in with entity id 29934 at (-651.00025013378, 16.0, 115.90264514168035)
+[16:05:52] [Server thread/INFO]: ShivamHere joined the game
+[16:07:43] [Server thread/INFO]: ShivamHere has made the advancement [Diamonds!]
+[16:09:08] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[16:09:08] [Server thread/INFO]: ShivamHere left the game
+[16:09:35] [Server thread/INFO]: ShivamHere[/100.114.182.95:56277] logged in with entity id 30834 at (-662.5531276891472, -9.0, 106.30871457268196)
+[16:09:35] [Server thread/INFO]: ShivamHere joined the game
+[16:10:26] [Server thread/INFO]: ahqaf lost connection: Disconnected
+[16:10:26] [Server thread/INFO]: ahqaf left the game
+[16:12:02] [Server thread/INFO]: ahqaf[/127.0.0.1:49761] logged in with entity id 31587 at (-668.2102784958724, -11.0, 104.68569909388432)
+[16:12:02] [Server thread/INFO]: ahqaf joined the game
+[16:13:44] [Server thread/INFO]: ahqaf has made the advancement [Diamonds!]
+[16:19:23] [Server thread/INFO]: ahqaf has made the advancement [Take Aim]
+[16:33:05] [Server thread/INFO]: ShivamHere has made the advancement [Cover Me with Diamonds]
+[16:33:17] [Server thread/INFO]: ahqaf has made the advancement [Cover Me with Diamonds]
+[16:40:01] [Server thread/INFO]: ShivamHere has made the advancement [Take Aim]
+[16:58:05] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[16:58:05] [Server thread/INFO]: ShivamHere left the game
+[16:58:35] [Server thread/INFO]: ShivamHere[/100.114.182.95:57826] logged in with entity id 42909 at (-457.2816521158073, 97.0, -320.30000001192093)
+[16:58:35] [Server thread/INFO]: ShivamHere joined the game
+[17:05:24] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[17:05:24] [Server thread/INFO]: ShivamHere left the game
+[17:05:29] [Server thread/INFO]: ShivamHere[/100.114.182.95:58116] logged in with entity id 43776 at (-459.65589116221275, 97.0, -320.1288369557665)
+[17:05:29] [Server thread/INFO]: ShivamHere joined the game
+[17:37:15] [Server thread/INFO]: [Not Secure] <ShivamHere> kaboom
+[17:41:57] [Server thread/INFO]: ShivamHere lost connection: Disconnected
+[17:41:57] [Server thread/INFO]: ShivamHere left the game
+[18:02:38] [Server thread/INFO]: ahqaf lost connection: Disconnected
+[18:02:38] [Server thread/INFO]: ahqaf left the game
+[18:03:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:13:12] [Server thread/INFO]: ahqaf[/127.0.0.1:54173] logged in with entity id 53948 at (-457.5, 95.0, -325.5)
+[19:13:12] [Server thread/INFO]: ahqaf joined the game
+[19:30:18] [Server thread/INFO]: ahqaf lost connection: Disconnected
+[19:30:18] [Server thread/INFO]: ahqaf left the game
+[19:31:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
